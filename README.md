@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Justin
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning React
-- 📫 Reach me through Ig: juz_98
+- 🌱 I’m currently working as node js developer
+- 📫 Reach me through TG: @Juzstinn
 
 <!---
 itzmejus/itzmejus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
